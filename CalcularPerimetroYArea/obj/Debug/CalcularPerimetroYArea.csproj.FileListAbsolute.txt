@@ -1,0 +1,13 @@
+C:\Users\GladOS\source\repos\CalcularPerimetroYArea\CalcularPerimetroYArea\bin\Debug\CalcularPerimetroYArea.exe.config
+C:\Users\GladOS\source\repos\CalcularPerimetroYArea\CalcularPerimetroYArea\bin\Debug\CalcularPerimetroYArea.exe
+C:\Users\GladOS\source\repos\CalcularPerimetroYArea\CalcularPerimetroYArea\bin\Debug\CalcularPerimetroYArea.pdb
+C:\Users\GladOS\source\repos\CalcularPerimetroYArea\CalcularPerimetroYArea\obj\Debug\CalcularPerimetroYArea.csprojResolveAssemblyReference.cache
+C:\Users\GladOS\source\repos\CalcularPerimetroYArea\CalcularPerimetroYArea\obj\Debug\CalcularPerimetroYArea.Form1.resources
+C:\Users\GladOS\source\repos\CalcularPerimetroYArea\CalcularPerimetroYArea\obj\Debug\CalcularPerimetroYArea.Properties.Resources.resources
+C:\Users\GladOS\source\repos\CalcularPerimetroYArea\CalcularPerimetroYArea\obj\Debug\CalcularPerimetroYArea.csproj.GenerateResource.Cache
+C:\Users\GladOS\source\repos\CalcularPerimetroYArea\CalcularPerimetroYArea\obj\Debug\CalcularPerimetroYArea.csproj.CoreCompileInputs.cache
+C:\Users\GladOS\source\repos\CalcularPerimetroYArea\CalcularPerimetroYArea\obj\Debug\CalcularPerimetroYArea.exe
+C:\Users\GladOS\source\repos\CalcularPerimetroYArea\CalcularPerimetroYArea\obj\Debug\CalcularPerimetroYArea.pdb
+C:\Users\GladOS\source\repos\CalcularPerimetroYArea\CalcularPerimetroYArea\obj\Debug\CalcularPerimetroYArea.Form2.resources
+C:\Users\GladOS\source\repos\CalcularPerimetroYArea\CalcularPerimetroYArea\obj\Debug\CalcularPerimetroYArea.FormPrincipal.resources
+C:\Users\GladOS\source\repos\CalcularPerimetroYArea\CalcularPerimetroYArea\obj\Debug\CalcularPerimetroYArea.Form3.resources
